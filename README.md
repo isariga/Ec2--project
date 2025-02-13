@@ -8,7 +8,7 @@ Steps of the project
    Choose Amazon Machine Image(AMI) with Windows as the Operating system.
 
 3. Create Key pair:
-   ![Create new Key Pair and Download the file and store it securly, as it is required to decrypt the password](./create_Keypair.png)
+   ![Create new Key Pair and Download the file and store it securly, as it is required to decrypt the password](create_keypair.png)
 
 4. Launch the Instance:
    ![Click Launch](./Instance_Launch.png)
